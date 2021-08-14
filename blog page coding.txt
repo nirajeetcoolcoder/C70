@@ -1,0 +1,49 @@
+        
+    <div class="page-header" id="movies">
+        <h2 class="text-capitalize">review on the movies</h2>
+    </div>
+
+    <div class="bg-primary movies_head" data-toggle="collapse" data-target="#avengers_endgame">
+        <span class="glyphicon glyphicon-film"></span> Avengers Endgame<i class="fa fa-sort-desc"></i>
+    </div>
+
+    <div id="avengers_endgame" class="collapse">
+
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+            <img src="movie1.jpeg" class="img-responsive img-thumbnail">
+        </div>
+
+        <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 movie_text">
+            <h5 class="text-success text-left text-capitalize">Excellent film to culminate MCU ride.
+                <span class="glyphicon glyphicon-star"></span>
+                <span class="glyphicon glyphicon-star"></span>
+                <span class="glyphicon glyphicon-star"></span>
+                <span class="glyphicon glyphicon-star"></span>
+                <span class="glyphicon glyphicon-star"></span>
+            </h5>
+            <p>With Avengers: Endgame, the Marvel Cinematic Universe has arrived at its long-awaited 'conclusion', offering fans an old-fashioned mix of grand spectacle and undiluted emotion. To say that it is a success would be too simple an observation; what it deserves instead, is a eulogy.</p>
+        </div>
+
+    </div>
+
+
+    <div class="bg-primary movies_head" data-toggle="collapse" data-target="#the_lion_king">
+        <span class="glyphicon glyphicon-film"></span> The Lion King<i class="fa fa-sort-desc"></i>
+    </div>
+
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+        <img src="movie2.jpg" class="img-responsive img-thumbnail">
+    </div>
+
+    <div id="the_lion_king" class="collapse">   
+
+        <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 movie_text">
+            <h5 class="text-success text-left text-capitalize">nice for one time.
+                <span class="glyphicon glyphicon-star"></span>
+                <span class="glyphicon glyphicon-star"></span>
+                <span class="glyphicon glyphicon-star"></span>
+            </h5>
+            <p>'The Lion King', a faithful remake of the 1994 original, has a high-profile cast and some truly spectacular visuals working for it. The story is the same; the young lion cub Simba's life changes forever after his father is murdered. The plotline, however, is also the film's main problem.</p>
+        </div>
+
+    </div>
